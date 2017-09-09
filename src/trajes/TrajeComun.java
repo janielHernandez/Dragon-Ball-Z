@@ -21,8 +21,4 @@ public class TrajeComun extends Traje
 	public String getTipo(){
     	return "comun";
     }
-	
-
-
-
 }
